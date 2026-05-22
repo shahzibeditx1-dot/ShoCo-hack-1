@@ -1,2 +1,14 @@
-# ShoCo-hack-1
-My project files
+{
+  "matching_urls": [
+    "#/wallet/Recharge",
+    "#/saasLottery/WinGo",
+    "#/saasLottery/TrxWinGo"
+  ],
+  "deposit_url": "https://www.pakclub1.com/#/wallet",
+  "login_url": "https://www.pakclub1.com/#/login",
+  "register_url": "https://www.pakclub1.com/#/register?invitationCode=84774865699",
+  "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
+  "home_url": "https://www.pakclub1.com/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500
+}
